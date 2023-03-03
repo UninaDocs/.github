@@ -16,4 +16,31 @@
 
 <h1 align="center">Università degli studi Federico II - Informatica</h1>
 <h2 align="center">(unofficial)</h2>
+
+
+<h2 align="center">Link utili</h2>
+<ul> 
+  <li><a href="https://informatica.dieti.unina.it/index.php/it/servizi-per-gli-studenti/calendario-esami/calendario-esami-laurea-triennale">Calendario Esami</a></li>
+  <li><a href="https://informatica.dieti.unina.it/index.php/it/servizi-per-gli-studenti/orario-delle-lezioni/orario-laurea-triennale">Orario Lezioni</a></li>
+</ul>
+
+<!-- Contributors -->
+<h2 align="center">Contributori</h2>
+
+<p align="center" width="100%">
+    <!-- lufthmensch-luftmensch -->
+    <a href="https://github.com/luftmensch-luftmensch">
+        <img width="15%" src="./contributors/luftmensch-luftmensch.png"> 
+    </a>
+
+    <!-- tetrian -->
+    <a href="https://github.com/Tetrian">
+        <img width="15%" src="./contributors/tetrian.png"> 
+    </a>
+
+    <!-- caos -->
+    <a href="https://github.com/43616F73">
+        <img width="15%" src="./contributors/caos.png"> 
+    </a>
+</p>
 #+END_HTML
