@@ -36,12 +36,12 @@
 
     <!-- tetrian -->
     <a href="https://github.com/Tetrian">
-        <img width="15%" src="./contributors/tetrian.png"> 
+        <img width="15%" src="https://github.com/UninaDocs/.github/blob/main/images/contributors/tetrian.png"> 
     </a>
 
     <!-- caos -->
     <a href="https://github.com/43616F73">
-        <img width="15%" src="./contributors/caos.png"> 
+        <img width="15%" src="https://github.com/UninaDocs/.github/blob/main/images/contributors/caos.png"> 
     </a>
 </p>
 #+END_HTML
