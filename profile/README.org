@@ -29,8 +29,9 @@
 
 <p align="center" width="100%">
     <!-- lufthmensch-luftmensch -->
+
     <a href="https://github.com/luftmensch-luftmensch">
-        <img width="15%" src="./contributors/luftmensch-luftmensch.png"> 
+        <img width="15%" src="https://github.com/UninaDocs/.github/blob/main/images/contributors/luftmensch-luftmensch.png"> 
     </a>
 
     <!-- tetrian -->
