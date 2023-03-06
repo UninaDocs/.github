@@ -24,6 +24,15 @@
   <li><a href="https://informatica.dieti.unina.it/index.php/it/servizi-per-gli-studenti/orario-delle-lezioni/orario-laurea-triennale">Orario Lezioni</a></li>
 </ul>
 
+<!-- Link agli appunti -->
+<h2 align="center">Accesso agli appunti</h2>
+<ul> 
+  <li><a href="https://github.com/UninaDocs/I-ANNO">Appunti del I anno</a></li>
+  <li><a href="https://github.com/UninaDocs/II-ANNO">Appunti del II anno</a></li>
+  <li><a href="https://github.com/UninaDocs/III-ANNO">Appunti del III anno</a></li>
+  <li><a href="https://github.com/UninaDocs/Books">Libri consigliati</a></li>
+</ul>
+
 <!-- Contributors -->
 <h2 align="center">Contributori</h2>
 
